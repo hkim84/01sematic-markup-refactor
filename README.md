@@ -8,4 +8,6 @@ This challenge is to tidy up this pre built webpage. I am to refractor its exist
 
 To show clients, that refractoring a codebase to be more understandable will help other developers to make ongoing improvements for the clients website.
 
-![Alt text](https://github.com/hkim84/01sematic-markup-refactor/blob/main/assets/images/Screenshot%20(4).png "Optional title")
+![website](/assets/images/Screenshot%20(10).png)
+![website2](/assets/images/Screenshot%20(9).png)
+![website3](/assets/images/Screenshot%20(8).png)
