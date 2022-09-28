@@ -2,11 +2,11 @@
 
 ## Description
 
-This challenge is to tidy up this pre built webpage. I am to refractor its existing code to give it a sematic html code. So others developers may be able to read its content through code vs.
+This challenge I am task to do is make the webpage more complete with sematic html coding. So, we may understand how to refactor an existing code and understanding its functions. 
 
 ## Usage
 
-To show clients, that refractoring a codebase to be more understandable will help other developers to make ongoing improvements for the clients website.
+Refactoring has its benefits, so others will understand the html document.Also, it help other developer to make improvements in a more fluid style instead of refactoring everything from scratch. 
 
 ## Screenshot
 ![website](/assets/images/Screenshot%20(10).png)
