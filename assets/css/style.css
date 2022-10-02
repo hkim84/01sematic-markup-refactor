@@ -1,3 +1,4 @@
+/*start of general style*/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,6 +9,17 @@ body {
     background-color: #d9dcd6;
 }
 
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+/*end of general style*/
+
+/*header and navigation*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -40,15 +52,9 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
+/*end of header and navigation
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
-}
+/*image style (hero)*/
 
 .hero {
     height: 800px;
@@ -58,6 +64,8 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+/*end of image style (hero)*/
 
 .float-left {
     float: left;
